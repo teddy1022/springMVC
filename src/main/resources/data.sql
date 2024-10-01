@@ -1,0 +1,1 @@
+INSERT INTO member (username, password) VALUES ('Ted', '000000');
